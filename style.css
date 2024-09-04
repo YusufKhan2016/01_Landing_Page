@@ -62,7 +62,7 @@ html, body {
     height: 300px;
     width: 200px;
     /* background-color: red; */
-    background-image: url('/profile.jpg');
+    background-image: url('https://images.pexels.com/photos/27990629/pexels-photo-27990629/free-photo-of-woman-sitting-in-dress-and-with-bag.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load');
     background-size: cover;
     position: absolute;
     top: 50%;
